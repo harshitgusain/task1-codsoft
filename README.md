@@ -53,7 +53,7 @@ The following important libraries were used for this project:
 
 -A logistic regression model was initialized and trained on the training data using LogisticRegression from sklearn.linear_model.
 
--Model Prediction
+# Model Prediction
 
 -The model was used to predict the survival status of passengers in the test set.
 
