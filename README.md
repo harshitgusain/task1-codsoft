@@ -1,4 +1,7 @@
-# Titanic Survival Prediction  Author: Harshit Singh Gusain  Batch: July  Domain: Data Science
+# Titanic Survival Prediction  
+# Author: Harshit Singh Gusain 
+# Batch: July  
+# Domain: Data Science
 
 Aim
 The aim of this project is to build a model that predicts whether a passenger on the Titanic survived or not based on given features.
